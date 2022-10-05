@@ -1,0 +1,2 @@
+# TutorialShellBash
+Fasi inizialii
